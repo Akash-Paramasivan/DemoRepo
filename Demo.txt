@@ -1,8 +1,7 @@
 Hello Iam Akash
-<<<<<<< HEAD
+
 jngvhgbmjnk,n
 kjbkjnk
-=======
 
 Hey dude whatsapp
->>>>>>> feature-1
+
